@@ -1,1 +1,7 @@
-![SUN](https://img.freepik.com/free-photo/beautiful-scenery-powerful-waterfall-surrounded-by-rocky-cliffs-trees-canada_181624-40995.jpg?semt=ais_hybrid&w=740&q=80)
+<a href="https://git-ascii.vercel.app">
+  <img
+    src="https://git-ascii.vercel.app/api/niteoliveira"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
